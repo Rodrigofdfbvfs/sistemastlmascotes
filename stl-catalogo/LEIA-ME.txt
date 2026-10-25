@@ -1,0 +1,16 @@
+STL STUDIO 3D - DEMONSTRAÇÃO DE PLATAFORMA
+
+COMO ABRIR
+1. Extraia todo o ZIP.
+2. Abra index.html no Chrome, Edge ou Firefox.
+3. O catálogo, buscas, filtros, favoritos e detalhes estarão disponíveis.
+
+TESTAR DOWNLOAD REAL
+Clique em '+ Adicionar STL', cadastre um arquivo STL/OBJ/3MF/ZIP seu e clique em 'Baixar arquivo'.
+
+IMPORTANTE
+- As imagens e os nomes de exemplo são apenas demonstrativos, baseados nas referências enviadas.
+- Os STL mostrados nas referências não foram disponibilizados. Logo, não estão incluídos.
+- Arquivos cadastrados permanecem somente na sessão/página aberta. Recarregar a página os remove.
+- Favoritos são gravados localmente no navegador.
+- Para uma plataforma comercial real: backend, banco de dados, armazenamento de arquivos, login, permissões, checkout e painel de administração seguro.
