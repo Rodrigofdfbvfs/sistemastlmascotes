@@ -61,6 +61,13 @@ if (fs.existsSync(imageOverridesPath)) {
   }
 }
 
+const manualItemsPath = path.join(__dirname, 'manual-items.json');
+if (fs.existsSync(manualItemsPath)) {
+  const manualItems = JSON.parse(fs.readFileSync(manualItemsPath, 'utf8'));
+  items.push(...manualItems);
+  items.sort((a, b) => a.name.localeCompare(b.name, 'pt-BR', { numeric: true }));
+}
+
 const output = `// Gerado a partir de https://www.stlmodelo3d.site/pack/mascotes\nwindow.catalogItems = ${JSON.stringify(items, null, 2)};\n`;
 fs.writeFileSync(path.join(__dirname, 'catalog-data.js'), output, 'utf8');
 console.log(`Catálogo sincronizado: ${items.length} produtos.`);

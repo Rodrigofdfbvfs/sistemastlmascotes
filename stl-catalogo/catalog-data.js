@@ -1114,5 +1114,21 @@ window.catalogItems = [
     "size": "Catálogo original",
     "kind": "folder",
     "downloadUrl": "https://drive.google.com/drive/folders/1ZsF4oR1DDkk9wGewXWBfQbFECdoJgVZk"
+  },
+  {
+    "id": "manual-vozao-mascote-ceara",
+    "sourceId": "manual-vozao-mascote-ceara",
+    "name": "Vozão Mascote Ceará",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/vozao-mascote-ceara.webp",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1r1EzN-PGzumfAoPnzNm7YlIQqYOjQDcj?usp=sharing"
   }
 ];
