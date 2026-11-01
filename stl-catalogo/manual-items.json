@@ -14,5 +14,21 @@
     "size": "Adicionado manualmente",
     "kind": "folder",
     "downloadUrl": "https://drive.google.com/drive/folders/1r1EzN-PGzumfAoPnzNm7YlIQqYOjQDcj?usp=sharing"
+  },
+  {
+    "id": "manual-mascote-juventude",
+    "sourceId": "manual-mascote-juventude",
+    "name": "Mascote Juventude",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": null,
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/16ttRT_8zFQZX9b2y_lOVM124Pqbhblmf?usp=sharing"
   }
 ]

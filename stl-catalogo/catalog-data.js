@@ -519,6 +519,22 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/drive/folders/1VA0TX7h1H6J6kg_51Ro-XGWxRPIqgK5L"
   },
   {
+    "id": "manual-mascote-juventude",
+    "sourceId": "manual-mascote-juventude",
+    "name": "Mascote Juventude",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": null,
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/16ttRT_8zFQZX9b2y_lOVM124Pqbhblmf?usp=sharing"
+  },
+  {
     "id": "original-344b9b6f-c131-4e37-9a40-e7aea11e6f8a",
     "sourceId": "344b9b6f-c131-4e37-9a40-e7aea11e6f8a",
     "name": "MASCOTE LEON",
