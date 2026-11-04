@@ -52,6 +52,22 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/drive/folders/1Igi2SAYq3nIgncea99xPhNSZ3q13tIXz"
   },
   {
+    "id": "manual-cobra-coral-santa-cruz",
+    "sourceId": "manual-cobra-coral-santa-cruz",
+    "name": "Cobra Coral Mascote Santa Cruz",
+    "category": "Mascotes",
+    "format": "3MF",
+    "formats": [
+      "3MF"
+    ],
+    "image": "assets/original/cobra-coral-mascote-santa-cruz.png",
+    "imageSource": "Snake+Santa+Cruz+Pintado+Alex (2).3mf",
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/13SeGWz1hRogCZw-U0vB-QW6ybr4Tr90a?usp=sharing"
+  },
+  {
     "id": "original-7a51ba2f-ecd5-4b45-8be6-98ca82552f10",
     "sourceId": "7a51ba2f-ecd5-4b45-8be6-98ca82552f10",
     "name": "CORINTHIANS MASCOTE 1",

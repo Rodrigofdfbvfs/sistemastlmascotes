@@ -30,5 +30,21 @@
     "size": "Adicionado manualmente",
     "kind": "folder",
     "downloadUrl": "https://drive.google.com/drive/folders/16ttRT_8zFQZX9b2y_lOVM124Pqbhblmf?usp=sharing"
+  },
+  {
+    "id": "manual-cobra-coral-santa-cruz",
+    "sourceId": "manual-cobra-coral-santa-cruz",
+    "name": "Cobra Coral Mascote Santa Cruz",
+    "category": "Mascotes",
+    "format": "3MF",
+    "formats": [
+      "3MF"
+    ],
+    "image": "assets/original/cobra-coral-mascote-santa-cruz.png",
+    "imageSource": "Snake+Santa+Cruz+Pintado+Alex (2).3mf",
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/13SeGWz1hRogCZw-U0vB-QW6ybr4Tr90a?usp=sharing"
   }
 ]
