@@ -152,6 +152,54 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/drive/folders/1sTJrdryJjiIXarSsHp7FIlxgLfbyXLk4"
   },
   {
+    "id": "manual-leao-mascote-fortaleza-novo",
+    "sourceId": "manual-leao-mascote-fortaleza-novo",
+    "name": "Leão Mascote Fortaleza",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/leao-mascote-fortaleza-novo.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1nrq3e8EJ8ya-da_FNrvqjNDrmGK2r-8d?usp=sharing"
+  },
+  {
+    "id": "manual-leao-mascote-remo",
+    "sourceId": "manual-leao-mascote-remo",
+    "name": "Leão Mascote Remo",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/leao-mascote-remo.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/15E1qYiCHlgDAqlbd9kGSePTkSHayW_-N?usp=sharing"
+  },
+  {
+    "id": "manual-leao-mascote-vitoria-novo",
+    "sourceId": "manual-leao-mascote-vitoria-novo",
+    "name": "Leão Mascote Vitória",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/leao-mascote-vitoria-novo.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1RiXJe1Z5APLJmJ82y0uhvGTQsNcJNx9_?usp=sharing"
+  },
+  {
     "id": "original-f1cb7d53-cbe0-41b8-b52d-fb1945ef158f",
     "sourceId": "f1cb7d53-cbe0-41b8-b52d-fb1945ef158f",
     "name": "LEO MASCOTE",
@@ -665,6 +713,22 @@ window.catalogItems = [
     "size": "Catálogo original",
     "kind": "file",
     "downloadUrl": "https://drive.google.com/file/d/1lDtQz77_UcSbOye6Hl4cltAOk839pAxM/view"
+  },
+  {
+    "id": "manual-tigrao-colorado-vila-nova",
+    "sourceId": "manual-tigrao-colorado-vila-nova",
+    "name": "Mascote Tigrão Colorado - Vila Nova F.C.",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/tigrao-colorado-vila-nova.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1kse4-LY4G6LitZub_OF9FSKodRR1C8uM"
   },
   {
     "id": "original-14208c64-7aaa-4c30-854e-e757e1de5635",
