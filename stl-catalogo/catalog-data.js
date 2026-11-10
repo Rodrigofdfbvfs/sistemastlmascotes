@@ -1209,7 +1209,7 @@ window.catalogItems = [
     "parts": 4,
     "size": "Catálogo original",
     "kind": "folder",
-    "downloadUrl": "https://drive.google.com/drive/folders/1ZsF4oR1DDkk9wGewXWBfQbFECdoJgVZk"
+    "downloadUrl": "https://drive.google.com/drive/folders/1zb0ObkcTTtKzivgZaOKCDvvuTkM8po-i"
   },
   {
     "id": "manual-vozao-mascote-ceara",
