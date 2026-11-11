@@ -134,6 +134,22 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/drive/folders/1Z8rGmXrGiB5ePQfNq2Ov58fZObEyGbDG"
   },
   {
+    "id": "manual-dragao-mascote-atletico-goianiense",
+    "sourceId": "manual-dragao-mascote-atletico-goianiense",
+    "name": "Dragão Mascote Atlético Goianiense",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/dragao-mascote-atletico-goianiense.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1Ye-lrxH0ByTjTm9MRpDiTvA7pb-leqAC?usp=sharing"
+  },
+  {
     "id": "original-4daf16f9-cf1d-4783-ab90-6a98e2e581fc",
     "sourceId": "4daf16f9-cf1d-4783-ab90-6a98e2e581fc",
     "name": "GALO DOIDO",
