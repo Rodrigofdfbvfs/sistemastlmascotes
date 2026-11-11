@@ -631,6 +631,38 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/drive/folders/1PSe2-1KkIPuHGqUzmDAczfIa_mZrQnCt"
   },
   {
+    "id": "manual-mosqueteiro-multicolor-v2-gremio",
+    "sourceId": "manual-mosqueteiro-multicolor-v2-gremio",
+    "name": "Mascote Mosqueteiro Multicolor V2 - Grêmio FBPA",
+    "category": "Mascotes",
+    "format": "STL",
+    "formats": [
+      "STL"
+    ],
+    "image": "assets/original/mosqueteiro-multicolor-v2-gremio.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1foky6tvYC5HRgVgAJilr-KLI6-sHsLqC"
+  },
+  {
+    "id": "manual-mosqueteiro-multipartes-3mf-gremio",
+    "sourceId": "manual-mosqueteiro-multipartes-3mf-gremio",
+    "name": "Mascote Mosqueteiro Multipartes 3MF - Grêmio FBPA",
+    "category": "Mascotes",
+    "format": "3MF",
+    "formats": [
+      "3MF"
+    ],
+    "image": "assets/original/mosqueteiro-multipartes-3mf-gremio.png",
+    "imageSource": null,
+    "parts": 8,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1OAxPxk3N01Dbzvpt7W0m61U1s-Eh5fcr"
+  },
+  {
     "id": "original-3ee89524-35d8-4b2c-bb70-845b9e719c72",
     "sourceId": "3ee89524-35d8-4b2c-bb70-845b9e719c72",
     "name": "MASCOTE ORCA SANTOS",
@@ -695,6 +727,22 @@ window.catalogItems = [
     "size": "Catálogo original",
     "kind": "folder",
     "downloadUrl": "https://drive.google.com/drive/folders/1SVxCCIG7UhXaUcFQyvOxP4PoB4xuGWLd"
+  },
+  {
+    "id": "manual-saci-colorado-internacional",
+    "sourceId": "manual-saci-colorado-internacional",
+    "name": "Mascote Saci Colorado - S.C. Internacional",
+    "category": "Mascotes",
+    "format": "3MF",
+    "formats": [
+      "3MF"
+    ],
+    "image": "assets/original/saci-colorado-internacional.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/folders/1PTN7D4Td96ChSYmajf03H-ZOrM_I1Pyy"
   },
   {
     "id": "original-150ec9d9-6f4d-4b8b-a395-472e5a6c8799",
