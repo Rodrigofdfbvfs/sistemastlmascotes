@@ -174,5 +174,22 @@
     "size": "Adicionado manualmente",
     "kind": "folder",
     "downloadUrl": "https://drive.google.com/drive/folders/1PTN7D4Td96ChSYmajf03H-ZOrM_I1Pyy"
+  },
+  {
+    "id": "manual-mascote-flamengo-atualizacao-separado-por-cor",
+    "sourceId": "manual-mascote-flamengo-atualizacao-separado-por-cor",
+    "name": "Mascote Flamengo Atualização - Separado por Cor",
+    "category": "Mascotes",
+    "format": "MULTI / STL",
+    "formats": [
+      "MULTI",
+      "STL"
+    ],
+    "image": "assets/original/mascote-flamengo-atualizacao-separado-por-cor.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/u/5/folders/19IKixas7JlKx4RLeqb9gqhV1ZxtZIgrk"
   }
 ]

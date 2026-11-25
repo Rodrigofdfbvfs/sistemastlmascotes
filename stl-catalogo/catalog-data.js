@@ -466,6 +466,23 @@ window.catalogItems = [
     "downloadUrl": "https://drive.google.com/file/d/1mFB0yMxQ5bTqaPwmwxK0CE9_Z6sAcgAx/view"
   },
   {
+    "id": "manual-mascote-flamengo-atualizacao-separado-por-cor",
+    "sourceId": "manual-mascote-flamengo-atualizacao-separado-por-cor",
+    "name": "Mascote Flamengo Atualização - Separado por Cor",
+    "category": "Mascotes",
+    "format": "MULTI / STL",
+    "formats": [
+      "MULTI",
+      "STL"
+    ],
+    "image": "assets/original/mascote-flamengo-atualizacao-separado-por-cor.png",
+    "imageSource": null,
+    "parts": 1,
+    "size": "Adicionado manualmente",
+    "kind": "folder",
+    "downloadUrl": "https://drive.google.com/drive/u/5/folders/19IKixas7JlKx4RLeqb9gqhV1ZxtZIgrk"
+  },
+  {
     "id": "original-1fb15e08-42ef-4789-9f18-f393cfcd3c65",
     "sourceId": "1fb15e08-42ef-4789-9f18-f393cfcd3c65",
     "name": "MASCOTE FLAMENGO CRUZADO 2",
